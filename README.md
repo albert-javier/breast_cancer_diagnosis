@@ -45,7 +45,10 @@ The Breast Cancer Wisconsin Dataset consists of features computed from digitized
 | `worst_fractal_dimension`  | "Worst" or largest mean value for the tumor's fractal dimension                     | Numeric     |
 | `target`                   | Classification target: `0` = Malignant, `1` = Benign  
 
+## ANN Model Used
 
+MLPClassifier with 
+Best Parameters: {'activation': 'tanh', 'hidden_layer_sizes': (50,), 'learning_rate': 'constant', 'solver': 'sgd'}
 
 
 
