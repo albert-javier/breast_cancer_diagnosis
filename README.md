@@ -50,4 +50,3 @@ The Breast Cancer Wisconsin Dataset consists of features computed from digitized
 
 ## References
 1. [Scikit-learn Breast Cancer Dataset Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html)
-2. W. H. Wolberg, W. N. Street, and O. L. Mangasarian. "Nuclear feature extraction for breast tumor diagnosis." *Biomedical Sciences Instrumentation*, vol. 29, pp. 95–100, 1993.
